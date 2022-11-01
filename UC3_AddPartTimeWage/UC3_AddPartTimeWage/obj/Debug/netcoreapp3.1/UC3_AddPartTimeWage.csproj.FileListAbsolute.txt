@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC3_AddPartTimeWage\UC3_AddPartTimeWage\bin\Debug\netcoreapp3.1\UC3_AddPartTimeWage.exe
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC3_AddPartTimeWage\UC3_AddPartTimeWage\bin\Debug\netcoreapp3.1\UC3_AddPartTimeWage.deps.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC3_AddPartTimeWage\UC3_AddPartTimeWage\bin\Debug\netcoreapp3.1\UC3_AddPartTimeWage.runtimeconfig.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC3_AddPartTimeWage\UC3_AddPartTimeWage\bin\Debug\netcoreapp3.1\UC3_AddPartTimeWage.runtimeconfig.dev.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC3_AddPartTimeWage\UC3_AddPartTimeWage\bin\Debug\netcoreapp3.1\UC3_AddPartTimeWage.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC3_AddPartTimeWage\UC3_AddPartTimeWage\bin\Debug\netcoreapp3.1\UC3_AddPartTimeWage.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC3_AddPartTimeWage\UC3_AddPartTimeWage\obj\Debug\netcoreapp3.1\UC3_AddPartTimeWage.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC3_AddPartTimeWage\UC3_AddPartTimeWage\obj\Debug\netcoreapp3.1\UC3_AddPartTimeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC3_AddPartTimeWage\UC3_AddPartTimeWage\obj\Debug\netcoreapp3.1\UC3_AddPartTimeWage.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC3_AddPartTimeWage\UC3_AddPartTimeWage\obj\Debug\netcoreapp3.1\UC3_AddPartTimeWage.AssemblyInfo.cs
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC3_AddPartTimeWage\UC3_AddPartTimeWage\obj\Debug\netcoreapp3.1\UC3_AddPartTimeWage.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC3_AddPartTimeWage\UC3_AddPartTimeWage\obj\Debug\netcoreapp3.1\UC3_AddPartTimeWage.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC3_AddPartTimeWage\UC3_AddPartTimeWage\obj\Debug\netcoreapp3.1\UC3_AddPartTimeWage.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC3_AddPartTimeWage\UC3_AddPartTimeWage\obj\Debug\netcoreapp3.1\UC3_AddPartTimeWage.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC3_AddPartTimeWage", "UC3_AddPartTimeWage\UC3_AddPartTimeWage.csproj", "{319E992B-42CA-4D23-B497-FBA4C14E038E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{319E992B-42CA-4D23-B497-FBA4C14E038E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319E992B-42CA-4D23-B497-FBA4C14E038E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319E992B-42CA-4D23-B497-FBA4C14E038E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319E992B-42CA-4D23-B497-FBA4C14E038E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20678985-45EC-4A93-A955-F495EE5BA8A4}
+	EndGlobalSection
+EndGlobal

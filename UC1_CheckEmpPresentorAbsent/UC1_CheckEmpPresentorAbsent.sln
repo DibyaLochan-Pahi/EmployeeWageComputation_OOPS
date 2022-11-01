@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC1_CheckEmpPresentorAbsent", "UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent.csproj", "{73B5A59F-C793-4390-98D6-9164F387BD2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B5A59F-C793-4390-98D6-9164F387BD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B5A59F-C793-4390-98D6-9164F387BD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B5A59F-C793-4390-98D6-9164F387BD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B5A59F-C793-4390-98D6-9164F387BD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41C9B262-D38D-4A5B-B560-3EC2AABA2A2F}
+	EndGlobalSection
+EndGlobal

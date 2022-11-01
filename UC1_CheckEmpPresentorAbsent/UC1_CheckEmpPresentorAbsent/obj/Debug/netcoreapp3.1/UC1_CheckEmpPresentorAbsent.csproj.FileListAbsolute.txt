@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent\bin\Debug\netcoreapp3.1\UC1_CheckEmpPresentorAbsent.exe
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent\bin\Debug\netcoreapp3.1\UC1_CheckEmpPresentorAbsent.deps.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent\bin\Debug\netcoreapp3.1\UC1_CheckEmpPresentorAbsent.runtimeconfig.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent\bin\Debug\netcoreapp3.1\UC1_CheckEmpPresentorAbsent.runtimeconfig.dev.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent\bin\Debug\netcoreapp3.1\UC1_CheckEmpPresentorAbsent.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent\bin\Debug\netcoreapp3.1\UC1_CheckEmpPresentorAbsent.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent\obj\Debug\netcoreapp3.1\UC1_CheckEmpPresentorAbsent.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent\obj\Debug\netcoreapp3.1\UC1_CheckEmpPresentorAbsent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent\obj\Debug\netcoreapp3.1\UC1_CheckEmpPresentorAbsent.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent\obj\Debug\netcoreapp3.1\UC1_CheckEmpPresentorAbsent.AssemblyInfo.cs
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent\obj\Debug\netcoreapp3.1\UC1_CheckEmpPresentorAbsent.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent\obj\Debug\netcoreapp3.1\UC1_CheckEmpPresentorAbsent.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent\obj\Debug\netcoreapp3.1\UC1_CheckEmpPresentorAbsent.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC1_CheckEmpPresentorAbsent\UC1_CheckEmpPresentorAbsent\obj\Debug\netcoreapp3.1\UC1_CheckEmpPresentorAbsent.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC4_SolvingbySwitchCase\UC4_SolvingbySwitchCase\bin\Debug\netcoreapp3.1\UC4_SolvingbySwitchCase.exe
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC4_SolvingbySwitchCase\UC4_SolvingbySwitchCase\bin\Debug\netcoreapp3.1\UC4_SolvingbySwitchCase.deps.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC4_SolvingbySwitchCase\UC4_SolvingbySwitchCase\bin\Debug\netcoreapp3.1\UC4_SolvingbySwitchCase.runtimeconfig.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC4_SolvingbySwitchCase\UC4_SolvingbySwitchCase\bin\Debug\netcoreapp3.1\UC4_SolvingbySwitchCase.runtimeconfig.dev.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC4_SolvingbySwitchCase\UC4_SolvingbySwitchCase\bin\Debug\netcoreapp3.1\UC4_SolvingbySwitchCase.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC4_SolvingbySwitchCase\UC4_SolvingbySwitchCase\bin\Debug\netcoreapp3.1\UC4_SolvingbySwitchCase.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC4_SolvingbySwitchCase\UC4_SolvingbySwitchCase\obj\Debug\netcoreapp3.1\UC4_SolvingbySwitchCase.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC4_SolvingbySwitchCase\UC4_SolvingbySwitchCase\obj\Debug\netcoreapp3.1\UC4_SolvingbySwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC4_SolvingbySwitchCase\UC4_SolvingbySwitchCase\obj\Debug\netcoreapp3.1\UC4_SolvingbySwitchCase.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC4_SolvingbySwitchCase\UC4_SolvingbySwitchCase\obj\Debug\netcoreapp3.1\UC4_SolvingbySwitchCase.AssemblyInfo.cs
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC4_SolvingbySwitchCase\UC4_SolvingbySwitchCase\obj\Debug\netcoreapp3.1\UC4_SolvingbySwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC4_SolvingbySwitchCase\UC4_SolvingbySwitchCase\obj\Debug\netcoreapp3.1\UC4_SolvingbySwitchCase.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC4_SolvingbySwitchCase\UC4_SolvingbySwitchCase\obj\Debug\netcoreapp3.1\UC4_SolvingbySwitchCase.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC4_SolvingbySwitchCase\UC4_SolvingbySwitchCase\obj\Debug\netcoreapp3.1\UC4_SolvingbySwitchCase.genruntimeconfig.cache

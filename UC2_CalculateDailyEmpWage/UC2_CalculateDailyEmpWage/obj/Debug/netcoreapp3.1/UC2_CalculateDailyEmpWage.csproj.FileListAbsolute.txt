@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC2_CalculateDailyEmpWage\UC2_CalculateDailyEmpWage\bin\Debug\netcoreapp3.1\UC2_CalculateDailyEmpWage.exe
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC2_CalculateDailyEmpWage\UC2_CalculateDailyEmpWage\bin\Debug\netcoreapp3.1\UC2_CalculateDailyEmpWage.deps.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC2_CalculateDailyEmpWage\UC2_CalculateDailyEmpWage\bin\Debug\netcoreapp3.1\UC2_CalculateDailyEmpWage.runtimeconfig.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC2_CalculateDailyEmpWage\UC2_CalculateDailyEmpWage\bin\Debug\netcoreapp3.1\UC2_CalculateDailyEmpWage.runtimeconfig.dev.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC2_CalculateDailyEmpWage\UC2_CalculateDailyEmpWage\bin\Debug\netcoreapp3.1\UC2_CalculateDailyEmpWage.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC2_CalculateDailyEmpWage\UC2_CalculateDailyEmpWage\bin\Debug\netcoreapp3.1\UC2_CalculateDailyEmpWage.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC2_CalculateDailyEmpWage\UC2_CalculateDailyEmpWage\obj\Debug\netcoreapp3.1\UC2_CalculateDailyEmpWage.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC2_CalculateDailyEmpWage\UC2_CalculateDailyEmpWage\obj\Debug\netcoreapp3.1\UC2_CalculateDailyEmpWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC2_CalculateDailyEmpWage\UC2_CalculateDailyEmpWage\obj\Debug\netcoreapp3.1\UC2_CalculateDailyEmpWage.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC2_CalculateDailyEmpWage\UC2_CalculateDailyEmpWage\obj\Debug\netcoreapp3.1\UC2_CalculateDailyEmpWage.AssemblyInfo.cs
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC2_CalculateDailyEmpWage\UC2_CalculateDailyEmpWage\obj\Debug\netcoreapp3.1\UC2_CalculateDailyEmpWage.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC2_CalculateDailyEmpWage\UC2_CalculateDailyEmpWage\obj\Debug\netcoreapp3.1\UC2_CalculateDailyEmpWage.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC2_CalculateDailyEmpWage\UC2_CalculateDailyEmpWage\obj\Debug\netcoreapp3.1\UC2_CalculateDailyEmpWage.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC2_CalculateDailyEmpWage\UC2_CalculateDailyEmpWage\obj\Debug\netcoreapp3.1\UC2_CalculateDailyEmpWage.genruntimeconfig.cache

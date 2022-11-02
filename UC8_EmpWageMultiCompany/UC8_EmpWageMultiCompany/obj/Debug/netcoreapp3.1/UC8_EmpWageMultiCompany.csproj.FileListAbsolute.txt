@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC8_EmpWageMultiCompany\UC8_EmpWageMultiCompany\bin\Debug\netcoreapp3.1\UC8_EmpWageMultiCompany.exe
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC8_EmpWageMultiCompany\UC8_EmpWageMultiCompany\bin\Debug\netcoreapp3.1\UC8_EmpWageMultiCompany.deps.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC8_EmpWageMultiCompany\UC8_EmpWageMultiCompany\bin\Debug\netcoreapp3.1\UC8_EmpWageMultiCompany.runtimeconfig.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC8_EmpWageMultiCompany\UC8_EmpWageMultiCompany\bin\Debug\netcoreapp3.1\UC8_EmpWageMultiCompany.runtimeconfig.dev.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC8_EmpWageMultiCompany\UC8_EmpWageMultiCompany\bin\Debug\netcoreapp3.1\UC8_EmpWageMultiCompany.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC8_EmpWageMultiCompany\UC8_EmpWageMultiCompany\bin\Debug\netcoreapp3.1\UC8_EmpWageMultiCompany.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC8_EmpWageMultiCompany\UC8_EmpWageMultiCompany\obj\Debug\netcoreapp3.1\UC8_EmpWageMultiCompany.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC8_EmpWageMultiCompany\UC8_EmpWageMultiCompany\obj\Debug\netcoreapp3.1\UC8_EmpWageMultiCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC8_EmpWageMultiCompany\UC8_EmpWageMultiCompany\obj\Debug\netcoreapp3.1\UC8_EmpWageMultiCompany.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC8_EmpWageMultiCompany\UC8_EmpWageMultiCompany\obj\Debug\netcoreapp3.1\UC8_EmpWageMultiCompany.AssemblyInfo.cs
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC8_EmpWageMultiCompany\UC8_EmpWageMultiCompany\obj\Debug\netcoreapp3.1\UC8_EmpWageMultiCompany.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC8_EmpWageMultiCompany\UC8_EmpWageMultiCompany\obj\Debug\netcoreapp3.1\UC8_EmpWageMultiCompany.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC8_EmpWageMultiCompany\UC8_EmpWageMultiCompany\obj\Debug\netcoreapp3.1\UC8_EmpWageMultiCompany.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC8_EmpWageMultiCompany\UC8_EmpWageMultiCompany\obj\Debug\netcoreapp3.1\UC8_EmpWageMultiCompany.genruntimeconfig.cache

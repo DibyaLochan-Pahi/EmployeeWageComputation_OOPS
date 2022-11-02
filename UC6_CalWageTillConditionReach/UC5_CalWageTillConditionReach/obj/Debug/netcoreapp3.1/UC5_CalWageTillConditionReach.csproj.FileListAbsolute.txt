@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalWageTillConditionReach\UC5_CalWageTillConditionReach\obj\Debug\netcoreapp3.1\UC5_CalWageTillConditionReach.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalWageTillConditionReach\UC5_CalWageTillConditionReach\obj\Debug\netcoreapp3.1\UC5_CalWageTillConditionReach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalWageTillConditionReach\UC5_CalWageTillConditionReach\obj\Debug\netcoreapp3.1\UC5_CalWageTillConditionReach.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalWageTillConditionReach\UC5_CalWageTillConditionReach\obj\Debug\netcoreapp3.1\UC5_CalWageTillConditionReach.AssemblyInfo.cs
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalWageTillConditionReach\UC5_CalWageTillConditionReach\obj\Debug\netcoreapp3.1\UC5_CalWageTillConditionReach.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalWageTillConditionReach\UC5_CalWageTillConditionReach\bin\Debug\netcoreapp3.1\UC5_CalWageTillConditionReach.exe
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalWageTillConditionReach\UC5_CalWageTillConditionReach\bin\Debug\netcoreapp3.1\UC5_CalWageTillConditionReach.deps.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalWageTillConditionReach\UC5_CalWageTillConditionReach\bin\Debug\netcoreapp3.1\UC5_CalWageTillConditionReach.runtimeconfig.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalWageTillConditionReach\UC5_CalWageTillConditionReach\bin\Debug\netcoreapp3.1\UC5_CalWageTillConditionReach.runtimeconfig.dev.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalWageTillConditionReach\UC5_CalWageTillConditionReach\bin\Debug\netcoreapp3.1\UC5_CalWageTillConditionReach.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalWageTillConditionReach\UC5_CalWageTillConditionReach\bin\Debug\netcoreapp3.1\UC5_CalWageTillConditionReach.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalWageTillConditionReach\UC5_CalWageTillConditionReach\obj\Debug\netcoreapp3.1\UC5_CalWageTillConditionReach.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalWageTillConditionReach\UC5_CalWageTillConditionReach\obj\Debug\netcoreapp3.1\UC5_CalWageTillConditionReach.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalWageTillConditionReach\UC5_CalWageTillConditionReach\obj\Debug\netcoreapp3.1\UC5_CalWageTillConditionReach.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalculateWageforMonth\UC5_CalculateWageforMonth\bin\Debug\netcoreapp3.1\UC5_CalculateWageforMonth.exe
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalculateWageforMonth\UC5_CalculateWageforMonth\bin\Debug\netcoreapp3.1\UC5_CalculateWageforMonth.deps.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalculateWageforMonth\UC5_CalculateWageforMonth\bin\Debug\netcoreapp3.1\UC5_CalculateWageforMonth.runtimeconfig.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalculateWageforMonth\UC5_CalculateWageforMonth\bin\Debug\netcoreapp3.1\UC5_CalculateWageforMonth.runtimeconfig.dev.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalculateWageforMonth\UC5_CalculateWageforMonth\bin\Debug\netcoreapp3.1\UC5_CalculateWageforMonth.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalculateWageforMonth\UC5_CalculateWageforMonth\bin\Debug\netcoreapp3.1\UC5_CalculateWageforMonth.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalculateWageforMonth\UC5_CalculateWageforMonth\obj\Debug\netcoreapp3.1\UC5_CalculateWageforMonth.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalculateWageforMonth\UC5_CalculateWageforMonth\obj\Debug\netcoreapp3.1\UC5_CalculateWageforMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalculateWageforMonth\UC5_CalculateWageforMonth\obj\Debug\netcoreapp3.1\UC5_CalculateWageforMonth.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalculateWageforMonth\UC5_CalculateWageforMonth\obj\Debug\netcoreapp3.1\UC5_CalculateWageforMonth.AssemblyInfo.cs
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalculateWageforMonth\UC5_CalculateWageforMonth\obj\Debug\netcoreapp3.1\UC5_CalculateWageforMonth.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalculateWageforMonth\UC5_CalculateWageforMonth\obj\Debug\netcoreapp3.1\UC5_CalculateWageforMonth.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalculateWageforMonth\UC5_CalculateWageforMonth\obj\Debug\netcoreapp3.1\UC5_CalculateWageforMonth.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC5_CalculateWageforMonth\UC5_CalculateWageforMonth\obj\Debug\netcoreapp3.1\UC5_CalculateWageforMonth.genruntimeconfig.cache

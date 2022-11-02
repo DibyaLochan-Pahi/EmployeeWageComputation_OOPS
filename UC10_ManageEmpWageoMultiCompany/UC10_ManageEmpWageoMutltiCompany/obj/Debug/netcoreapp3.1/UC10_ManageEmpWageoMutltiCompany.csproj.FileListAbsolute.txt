@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC10_ManageEmpWageoMutltiCompany\UC10_ManageEmpWageoMutltiCompany\obj\Debug\netcoreapp3.1\UC10_ManageEmpWageoMutltiCompany.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC10_ManageEmpWageoMutltiCompany\UC10_ManageEmpWageoMutltiCompany\obj\Debug\netcoreapp3.1\UC10_ManageEmpWageoMutltiCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC10_ManageEmpWageoMutltiCompany\UC10_ManageEmpWageoMutltiCompany\obj\Debug\netcoreapp3.1\UC10_ManageEmpWageoMutltiCompany.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC10_ManageEmpWageoMutltiCompany\UC10_ManageEmpWageoMutltiCompany\obj\Debug\netcoreapp3.1\UC10_ManageEmpWageoMutltiCompany.AssemblyInfo.cs
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC10_ManageEmpWageoMutltiCompany\UC10_ManageEmpWageoMutltiCompany\obj\Debug\netcoreapp3.1\UC10_ManageEmpWageoMutltiCompany.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC10_ManageEmpWageoMutltiCompany\UC10_ManageEmpWageoMutltiCompany\bin\Debug\netcoreapp3.1\UC10_ManageEmpWageoMutltiCompany.exe
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC10_ManageEmpWageoMutltiCompany\UC10_ManageEmpWageoMutltiCompany\bin\Debug\netcoreapp3.1\UC10_ManageEmpWageoMutltiCompany.deps.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC10_ManageEmpWageoMutltiCompany\UC10_ManageEmpWageoMutltiCompany\bin\Debug\netcoreapp3.1\UC10_ManageEmpWageoMutltiCompany.runtimeconfig.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC10_ManageEmpWageoMutltiCompany\UC10_ManageEmpWageoMutltiCompany\bin\Debug\netcoreapp3.1\UC10_ManageEmpWageoMutltiCompany.runtimeconfig.dev.json
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC10_ManageEmpWageoMutltiCompany\UC10_ManageEmpWageoMutltiCompany\bin\Debug\netcoreapp3.1\UC10_ManageEmpWageoMutltiCompany.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC10_ManageEmpWageoMutltiCompany\UC10_ManageEmpWageoMutltiCompany\bin\Debug\netcoreapp3.1\UC10_ManageEmpWageoMutltiCompany.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC10_ManageEmpWageoMutltiCompany\UC10_ManageEmpWageoMutltiCompany\obj\Debug\netcoreapp3.1\UC10_ManageEmpWageoMutltiCompany.dll
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC10_ManageEmpWageoMutltiCompany\UC10_ManageEmpWageoMutltiCompany\obj\Debug\netcoreapp3.1\UC10_ManageEmpWageoMutltiCompany.pdb
+C:\Users\hp\Desktop\OOPs Concept Problem UC\New folder\UC10_ManageEmpWageoMutltiCompany\UC10_ManageEmpWageoMutltiCompany\obj\Debug\netcoreapp3.1\UC10_ManageEmpWageoMutltiCompany.genruntimeconfig.cache
